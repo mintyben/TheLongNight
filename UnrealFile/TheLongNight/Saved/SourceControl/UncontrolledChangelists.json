@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GitHub/VG2.0/TheLongNight/UnrealFile/TheLongNight/Content/FirstPerson/Blueprints/BP_Character_A.uasset",
+				"C:/GitHub/VG2.0/TheLongNight/UnrealFile/TheLongNight/Content/FirstPerson/Blueprints/BP_Character_B.uasset",
+				"C:/GitHub/VG2.0/TheLongNight/UnrealFile/TheLongNight/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/XP/FMCOHZ267480BUPQBTQ7MC.uasset",
+				"C:/GitHub/VG2.0/TheLongNight/UnrealFile/TheLongNight/Content/FirstPerson/Blueprints/BP_Character_Switching_PC.uasset",
+				"C:/GitHub/VG2.0/TheLongNight/UnrealFile/TheLongNight/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
+			]
+		}
+	]
+}
